@@ -1,0 +1,13 @@
+{
+  "name": "reactnextjs",
+  "version": "1.0.0",
+  "description": "ReactJs with Nextjs",
+  "main": "index.js",
+  "author": "@astaphobia",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}
